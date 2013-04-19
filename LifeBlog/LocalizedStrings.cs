@@ -10,7 +10,7 @@ namespace LifeBlog
         private static AppResources _localizedResources = new AppResources();
 
 
-        const int  d = 0;
+ 
         public AppResources LocalizedResources { get { return _localizedResources; } }
     }
 }
